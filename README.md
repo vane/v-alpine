@@ -3,8 +3,8 @@
 0.1.2 latest
 
 ### Sources
-Github repository [vane/v-alpine](https://github.com/vane/v-alpine)
-Docker hub [szczepano/v-alpine](https://hub.docker.com/r/szczepano/v-alpine)
+Github repository [vane/v-alpine](https://github.com/vane/v-alpine)  
+Docker hub [szczepano/v-alpine](https://hub.docker.com/r/szczepano/v-alpine)  
 
 ### Description
 Builds latest version of [vlang](https://github.com/vlang/v) compiler on docker alpine using gcc
